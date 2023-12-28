@@ -2,4 +2,5 @@
 
 something wrong
 it is my git
-i am a dog
+i am a frog
+i always eat chips 
