@@ -5,3 +5,5 @@ it is my git
 i am a tiger
 new vetka, new life
 life is good
+something changes
+new changes
