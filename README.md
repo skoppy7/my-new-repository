@@ -4,3 +4,5 @@ something wrong
 it is my git
 i am a frog
 i always eat chips 
+
+new changes
